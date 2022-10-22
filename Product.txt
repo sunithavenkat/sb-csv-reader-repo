@@ -1,0 +1,6 @@
+105,Mouse,6000
+106,keyborad,7000
+107,cpu,8000
+109,monitor,9000
+110,laptop,25000
+111,desktop,26000
